@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="## |IL| ISRAËL1 ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/ISRAEL.png" group-title="ISRAËL| HEBREEW",## |IL| ISRAËL1
-https://video.bunnycdn.com/play/74120/3b615c5c-f2f2-4135-85ea-00a79155f9fc
-#EXTINF:-1 tvg-id="" tvg-name="## |IL| ISRAËL2 ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/ISRAEL.png" group-title="ISRAËL| HEBREEW",## |IL| ISRAËL2
-https://kingtvland.b-cdn.net/מדיה%20VOD%20האיש%20עם%20הנעל%20האדומה%201985.mp4
-#EXTINF:-1 tvg-id="" tvg-name="## |IL| ISRAËL3 ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/ISRAEL.png" group-title="ISRAËL| HEBREEW",## |IL| ISRAËL3
-https://video.bunnycdn.com/play/74120/3b615c5c-f2f2-4135-85ea-00a79155f9fc
-#EXTINF:-1 tvg-id="" tvg-name="## |IL| ISRAËL4 ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/ISRAEL.png" group-title="ISRAËL| HEBREEW",## |IL| ISRAËL4
+#EXTINF:-1 tvg-id="" tvg-name="## |IL| ISRAËL ##" tvg-logo="http://103.161.34.215:81/logos/CTGLOGOS/ISRAEL.png" group-title="ISRAËL| HEBREEW",## |IL| ISRAËL ##
+http://kingtvland.ottc.pro:80/i3brsfAbAtLDFLJ/v7ziYazF9SAKZhS/9922
+#EXTINF:-1 tvg-id="vivaplus.il" tvg-name="|IL| VIVA+" tvg-logo="http://103.161.34.240:81/logos/ISRAEL/VIVAPLUS.png" group-title="ISRAËL| HEBREEW",|IL| VIVA+
+http://kingtvland.ottc.pro:80/i3brsfAbAtLDFLJ/v7ziYazF9SAKZhS/87706
+#EXTINF:-1 tvg-id="yesmoviesdrama.il" tvg-name="|IL| YES MOVIES DRAMA HD" tvg-logo="http://103.161.34.240:81/logos/ISRAEL/israel2/YESMOVIESDRAMA.png" group-title="ISRAËL| HEBREEW",|IL| YES MOVIES DRAMA HD
+http://kingtvland.ottc.pro:80/i3brsfAbAtLDFLJ/v7ziYazF9SAKZhS/9920
+#EXTINF:-1 tvg-id="yesmoviesaction.il" tvg-name="|IL| YES MOVIES ACTION HD" tvg-logo="http://103.161.34.240:81/logos/ISRAEL/YESACTION.png" group-title="ISRAËL| HEBREEW",|IL| YES MOVIES ACTION HD
 https://t.me/c/1630853594/182882
-#EXTINF:-1 tvg-ID="" tvg-name="4 Blocks S03 E04" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uJyVCDpYhlbMqmzdnn92IaNjw36.jpg" group-title="Series: Other",4 Blocks S03 E04
-https://panel.bunny.net/stream/library/manage/74120#
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Musayof (Israel) (240p) [Not 24/7]
-https://vz-0480fe6e-70f.b-cdn.net/7c53684a-9d4b-49ec-9f47-fc4bd55e0a3f/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mu
+#EXTINF:-1 tvg-id="yesmoviescomedy.il" tvg-name="|IL| YES MOVIES COMEDY HD" tvg-logo="http://103.161.34.240:81/logos/ISRAEL/israel2/YESMOVIESCOMEDY.png" group-title="ISRAËL| HEBREEW",|IL| YES MOVIES COMEDY HD
 https://video.bunnycdn.com/play/74120/7c53684a-9d4b-49ec-9f47-fc4bd55e0a3f
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Mu1
+#EXTINF:-1 tvg-id="yesmovieskids.il" tvg-name="|IL| YES MOVIES KIDS HD" tvg-logo="http://103.161.34.240:81/logos/ISRAEL/israel2/YESMOVIESKIDS.png" group-title="ISRAËL| HEBREEW",|IL| YES MOVIES KIDS HD
 https://video.bunnycdn.com/play/74120/3b615c5c-f2f2-4135-85ea-00a79155f9fc
